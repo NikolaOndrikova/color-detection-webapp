@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background: linear-gradient(90deg, rgba(247,183,25,1) 0%, rgba(171,16,219,1) 50%, rgba(15,219,150,1) 100%);
+}
+
+button {
+	cursor: pointer;
+}
